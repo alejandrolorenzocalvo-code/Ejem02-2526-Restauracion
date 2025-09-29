@@ -9,6 +9,7 @@ Ir a pie de página [^1]
 2. Lista 2o item
 3. Lista 3er item
 - Lista sin numerar 1
+<<<<<<< HEAD
 - Lista sin numerar 2
 
   
@@ -51,3 +52,6 @@ Modificacion realizada en local.
 
 
 [^1]: Este es el pie de página
+=======
+- Lista sin numerar 2 
+>>>>>>> parent of e93a93a (Update README.md)
