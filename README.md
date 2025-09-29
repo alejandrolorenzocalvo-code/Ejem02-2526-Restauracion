@@ -1,3 +1,5 @@
+Nombre del propietario del proyecto: Alejandro Lorenzo.
+
 # Ejem02-Restauracion
 **prueba de negrita**
 
