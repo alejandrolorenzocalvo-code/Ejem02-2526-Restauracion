@@ -34,5 +34,16 @@ Trabajadores del proyecto
 }
 ```
 
+Git 
+ : Control de versiones utilizado
+IDE 
+ : Eclipse para desarrollar proyectos
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Destacar ==esto==
+
 
 [^1]: Este es el pie de página
