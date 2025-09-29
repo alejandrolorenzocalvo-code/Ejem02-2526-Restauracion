@@ -1,6 +1,8 @@
 # Ejem02-Restauracion
 **prueba de negrita**
 
+Ir a pie de página [^1]
+
 *prueba de italica*
 > prueba de blockquote
 1. Lista 1er item
@@ -17,3 +19,20 @@ Enlace al centro desarrollador https://gregoriofer.com
 Imagen corporativa:
 
 ![Logo GF](https://gregoriofer.com/logo.jpg)
+
+Trabajadores del proyecto
+| Identificador | Nombre alumno |
+| ------------- | ------------- |
+| 1 | Alejandro |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+[^1]: Este es el pie de página
