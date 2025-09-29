@@ -34,16 +34,18 @@ Trabajadores del proyecto
 }
 ```
 
-Git 
- : Control de versiones utilizado
-IDE 
- : Eclipse para desarrollar proyectos
+<dt><mark>Git</mark></dt>
+  <dd>Control de versiones.</dd>
+  
+  <dt><mark>IDE</mark></dt>
+  <dd>Eclipse para programar.</dd>
+</dl>
 
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
-Destacar ==esto==
+Destacar <mark>esto</mark>
 
 
 [^1]: Este es el pie de página
