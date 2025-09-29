@@ -7,4 +7,13 @@
 2. Lista 2o item
 3. Lista 3er item
 - Lista sin numerar 1
-- Lista sin numerar 2 
+- Lista sin numerar 2
+
+  
+`String variable = "Esto es una cadena de texto"`
+
+Enlace al centro desarrollador https://gregoriofer.com
+
+Imagen corporativa:
+
+![Logo GF](https://gregoriofer.com/logo.jpg)
