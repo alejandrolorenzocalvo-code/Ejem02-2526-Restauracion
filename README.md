@@ -3,10 +3,57 @@ Nombre del propietario del proyecto: Alejandro Lorenzo.
 # Ejem02-Restauracion
 **prueba de negrita**
 
+Ir a pie de página [^1]
+
 *prueba de italica*
 > prueba de blockquote
 1. Lista 1er item
 2. Lista 2o item
 3. Lista 3er item
 - Lista sin numerar 1
+<<<<<<< HEAD
+- Lista sin numerar 2
+
+  
+`String variable = "Esto es una cadena de texto"`
+
+Enlace al centro desarrollador https://gregoriofer.com
+
+Imagen corporativa:
+
+![Logo GF](https://gregoriofer.com/logo.jpg)
+
+Trabajadores del proyecto
+| Identificador | Nombre alumno |
+| ------------- | ------------- |
+| 1 | Alejandro |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+<dt><mark>Git</mark></dt>
+  <dd>Control de versiones.</dd>
+  
+  <dt><mark>IDE</mark></dt>
+  <dd>Eclipse para programar.</dd>
+</dl>
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Destacar <mark>esto</mark>
+
+Modificacion realizada en local.
+
+
+[^1]: Este es el pie de página
+=======
 - Lista sin numerar 2 
+>>>>>>> parent of e93a93a (Update README.md)
